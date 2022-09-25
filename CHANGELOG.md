@@ -9,3 +9,4 @@
 - 2022-05-12 fix: timezone no relatorio
 - 2022-07-01 rollback deploy meia noite
 - 2022-07-13 atualiza readme
+- 2022-09-24 chore: gitignore .env
