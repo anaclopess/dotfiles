@@ -11,3 +11,4 @@
 - 2022-07-13 atualiza readme
 - 2022-09-24 chore: gitignore .env
 - 2022-09-24 remove console.log
+- 2022-11-17 refactor: tira god object
