@@ -13,3 +13,4 @@
 - 2022-09-24 remove console.log
 - 2022-11-17 refactor: tira god object
 - 2023-04-08 simplifica o client http
+- 2024-10-17 wip dashboard
