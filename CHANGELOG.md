@@ -17,3 +17,4 @@
 - 2024-10-17 feat: exporta csv do mes
 - 2025-08-18 metricas prometheus no handler
 - 2025-09-11 metricas prometheus no handler
+- 2025-11-21 adiciona login com jwt
