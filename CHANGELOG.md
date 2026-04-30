@@ -18,3 +18,4 @@
 - 2025-08-18 metricas prometheus no handler
 - 2025-09-11 metricas prometheus no handler
 - 2025-11-21 adiciona login com jwt
+- 2026-04-30 retry com backoff no consumer
