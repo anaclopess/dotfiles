@@ -20,3 +20,4 @@
 - 2025-11-21 adiciona login com jwt
 - 2026-04-30 retry com backoff no consumer
 - 2026-05-25 rollback deploy meia noite
+- 2026-05-25 corrige leak de conexao no pool
