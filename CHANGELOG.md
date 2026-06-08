@@ -21,3 +21,4 @@
 - 2026-04-30 retry com backoff no consumer
 - 2026-05-25 rollback deploy meia noite
 - 2026-05-25 corrige leak de conexao no pool
+- 2026-06-08 fix typo no mapper
