@@ -22,3 +22,4 @@
 - 2026-05-25 rollback deploy meia noite
 - 2026-05-25 corrige leak de conexao no pool
 - 2026-06-08 fix typo no mapper
+- 2026-06-25 corrige status 500 no healthcheck
